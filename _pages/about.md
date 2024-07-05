@@ -16,3 +16,5 @@ Currently, my research interests live at scientific machine learning and high pe
 I received my B.S. from [Fudan University](https://www.fudan.edu.cn/) in 2023, where I majored in data science.
 I was fortunate to be advised by Prof. [Meiyue Shao](https://scholar.google.com/citations?user=yk0MnRQAAAAJ&hl=en),
 which is the reason I chose to pursue my Ph.D. in computational science.
+
+You can find my CV [here](https://cypher30.github.io/files/Boyuan_Yao_CV.pdf)
