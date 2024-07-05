@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "John Boyuan Yao"
+title                    : "John (Boyuan) Yao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Cypher30/Cypher30.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : ""
+  name             : "Boyuan Yao (姚博远)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at University of Texas at Austin"
   location         : "Austin, TX"
