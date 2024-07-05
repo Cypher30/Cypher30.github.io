@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 Welcome! I am a Ph.D. student in the [Oden Institute](https://www.oden.utexas.edu) at the [University of Texas at Austin](https://www.utexas.edu),
 where I am advised by Prof. [Omar Ghattas](https://oden.utexas.edu/people/directory/Omar-Ghattas/).
 Currently, my research interests live at scientific machine learning and high performance computing.
